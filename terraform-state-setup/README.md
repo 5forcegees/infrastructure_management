@@ -1,0 +1,1 @@
+For more information regarding Terraform state and how it's setup, please read the [wiki](http://awowttfap01v01:8080/tfs/WebAndMobile/Microservices/_wiki?pagePath=%2FPlatform%2FTerraform%2FTerraform-State-Setup).
